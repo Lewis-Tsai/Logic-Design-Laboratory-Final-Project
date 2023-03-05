@@ -25,7 +25,7 @@
 </div>
 
 ## Semester and class
-2022 Spring EECS207002	
+2022 Spring NTHU EECS207002	
 
 ## Goal
 Design and implement a whack-a-mole (打地鼠)
